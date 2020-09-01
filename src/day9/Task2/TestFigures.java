@@ -1,7 +1,5 @@
 package day9.Task2;
 
-import java.sql.SQLOutput;
-
 public class TestFigures {
     public static double calculatePerimeterForColor(Figure[] figures, String color){
         double perimeter = 0;
